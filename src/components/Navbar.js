@@ -11,9 +11,9 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 
 const Navbar = () => {
   return (
-    <div className='navbar1'>
-        <nav classNameName="navbar">
-      <div classNameName="nav-center">
+    // <div className='navbar1'>
+        <nav className="navbar">
+      <div className="nav-center">
         <div className="nav-header">
           <img src={logo} className="nav-logo" alt="backroads" />
           <button type="button" className="nav-toggle" id="nav-toggle">
@@ -49,7 +49,7 @@ const Navbar = () => {
         </ul>
       </div>
     </nav>
-    </div>
+    // {/* </div> */}
   )
 }
 
