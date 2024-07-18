@@ -27,7 +27,7 @@ const About = () => {
             quisquam harum nam cumque temporibus explicabo dolorum sapiente odio
             unde dolor?
           </p>
-          <a href="https://example.com" className="btn">read more</a>
+          <a href="https://main--backroadtrex.netlify.app/" className="btn">read more</a>
         </article>
       </div>
     </section>
